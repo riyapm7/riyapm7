@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyapm7
-- 👀 I’m interested in Graphic Desdigning, Web development...
+- 👀 I’m interested in Graphic designing, Web development...
 - 🌱 I’m currently pursuing B.E. degree in Computer engineering 
 
 <!---
